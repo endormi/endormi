@@ -10,3 +10,4 @@ My work is in private repositories, but do check out my open source projects and
 
 #### My GitHub stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=endormi&show_icons=true)](https://endormi.io/)
+[![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endormi&layout=compact&hide=jupyter%20notebook)](https://github.com/endormi?tab=repositories)
