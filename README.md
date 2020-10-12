@@ -6,6 +6,8 @@ My work is in private repositories, but do check out my open source projects and
 
 - 💻 I'm a part of a community of Developers called [Dev Isle](https://devisle.netlify.app/). Feel free to join our [discord](https://discord.com/invite/MSTQKRE). <br> We contribute to open source, check our [projects](https://github.com/devisle).
 
+If you enjoy the projects I have created, feel free to follow me! It's much appreciated.
+
 #### My GitHub stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=endormi&show_icons=true&theme=radical)](https://endormi.io/)
 [![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endormi&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/endormi?tab=repositories)
