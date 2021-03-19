@@ -9,7 +9,7 @@ My work is in private repositories, but do check out my open source projects and
 If you enjoy the projects I have created, feel free to follow me and give a star! It's much appreciated.
 
 #### My GitHub stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=endormi&show_icons=true&theme=radical)](https://endormi.io/)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=endormi&show_icons=true&theme=radical&hide=commits)](https://endormi.io/)
 [![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endormi&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/endormi?tab=repositories)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=endormi&theme=dracula&row=1&column=8)
