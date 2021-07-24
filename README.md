@@ -10,6 +10,7 @@ If you enjoy the projects I have created, feel free to follow me and give a star
 
 If you want, now you can also support my work on these platforms:
 
+- GitHub sponsors
 - [Buymeacoffee](https://www.buymeacoffee.com/endormi)
 - [Ko-fi](https://ko-fi.com/endormi)
 - [Patreon](https://www.patreon.com/endormi)
