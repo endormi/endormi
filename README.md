@@ -17,8 +17,12 @@ If you want, now you can also support my work on these platforms:
 
 I truly appreciate everyone who wants to support my work!
 
+<!--
+
 #### My GitHub stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=endormi&show_icons=true&theme=radical&hide=commits)](https://endormi.io/)
 [![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endormi&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/endormi?tab=repositories)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=endormi&theme=dracula&row=1&column=8)
+
+-->
