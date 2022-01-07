@@ -21,7 +21,7 @@ I truly appreciate everyone who wants to support my work!
 
 Currently learning:
 
-- AWS (EC2, ECR, VPC, S3 etc.)
+- AWS (EC2, ECR, VPC, S3, etc.)
 - Grafana
 - Terraform
 - and more cloud related things
