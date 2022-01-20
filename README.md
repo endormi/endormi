@@ -24,6 +24,7 @@ Currently learning:
 - AWS (ECR, EKS, etc.)
 - Grafana
 - Terraform
+- Kubernetes
 - and more cloud related things
 
 <!--
