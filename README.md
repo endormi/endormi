@@ -21,7 +21,7 @@ I truly appreciate everyone who wants to support my work!
 
 Currently learning:
 
-- AWS (ECR, EKS, etc.)
+- AWS
 - Grafana
 - Terraform
 - Kubernetes
