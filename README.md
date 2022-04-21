@@ -25,6 +25,7 @@ Currently learning:
 - Grafana
 - Terraform
 - Kubernetes
+- Ansible
 - and more cloud related things
 
 <!--
