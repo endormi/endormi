@@ -6,8 +6,6 @@ Check out my website at [endormi.io](https://endormi.io).
 
 My work is not open source, but do check out my open source projects and contributions.
 
-💻 I'm a part of a community of Developers called [Dev Isle](https://devisle.netlify.app/). Feel free to join our [discord](https://discord.com/invite/MSTQKRE). <br> We contribute to open source, check out our [projects](https://github.com/devisle).
-
 If you enjoy the projects I have created, feel free to follow me and give a star!
 
 If you want, now you can also support my work on these platforms:
