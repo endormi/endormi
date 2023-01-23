@@ -20,8 +20,6 @@ I truly appreciate everyone who wants to support my work!
 Currently learning:
 
 - AWS
-- Grafana
-- Terraform
 - Kubernetes
 - Ansible
 - and more cloud related things
