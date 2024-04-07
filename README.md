@@ -17,13 +17,6 @@ If you want, now you can also support my work on these platforms:
 
 I truly appreciate everyone who wants to support my work!
 
-Currently learning:
-
-- AWS
-- Kubernetes
-- Ansible
-- and more cloud related things
-
 <!--
 
 #### My GitHub stats
