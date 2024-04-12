@@ -4,18 +4,20 @@
 
 Check out my website at [endormi.io](https://endormi.io).
 
-My work is not open source, but do check out my open source projects and contributions.
+Highly passionate about Development, Security, Infrastructure, Privacy, Automation, and more.
 
-If you enjoy the projects I have created, feel free to follow me and give a star!
+As a Software Developer/Engineer, I'm inherently curious and constantly exploring different technologies, with a strong emphasis on privacy.
 
-If you want, now you can also support my work on these platforms:
+I've thoroughly enjoyed creating these public projects, and I'm delighted if others find them useful.
+
+If you find value in any of the public projects I've created, you can support me by funding using these platforms and/or giving a star for the projects.
 
 - [GitHub sponsors](https://github.com/sponsors/endormi)
 - [Buymeacoffee](https://www.buymeacoffee.com/endormi)
 - [Ko-fi](https://ko-fi.com/endormi)
 - [Patreon](https://www.patreon.com/endormi)
 
-I truly appreciate everyone who wants to support my work!
+Support is highly appreciated, but totally optional. Your support means the world to me!
 
 <!--
 
