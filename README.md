@@ -17,7 +17,7 @@ If you find value in any of the public projects I've created, you can support me
 - [Ko-fi](https://ko-fi.com/endormi)
 - [Patreon](https://www.patreon.com/endormi)
 
-Support is highly appreciated, but totally optional. Your support means the world to me!
+Support is highly appreciated, but totally optional.
 
 <!--
 
