@@ -6,7 +6,7 @@ Check out my website at [endormi.io](https://endormi.io).
 
 Highly passionate about Development, Security, Infrastructure, Privacy, Automation, and more.
 
-I'm inherently curious and constantly exploring different technologies, with a strong emphasis on privacy.
+I'm inherently curious and constantly exploring different technologies with a strong emphasis on privacy.
 
 I've thoroughly enjoyed creating these projects, and I'm delighted if others find them useful.
 
