@@ -1,7 +1,5 @@
 # Hi there 👋
 
-###### *Software Developer/Engineer*
-
 Check out my website at [endormi.io](https://endormi.io).
 
 Highly passionate about Development, Security, Infrastructure, Privacy, Automation and more.
